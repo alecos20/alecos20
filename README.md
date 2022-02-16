@@ -3,7 +3,7 @@
 - The domain purchased from GoDaddy redirects to my site hosted on Pinata IPFS. 
 - 👀 I’m interested in most video game genres, same goes with music and movies. 
 - I mostly listen to metal music like Vildhjarta.
-- 💞️ I’m looking to start my gameplay programing career in triple a videogame development.
+- 💞️ I’m looking to start my gameplay programing career in triple A videogame development.
 - 📫 How to reach me alecarakilyan@gmail.com
 
 <!---
