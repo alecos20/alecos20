@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @alecos20 Alec Arakilyan
 - My website is found at www.doublasoftware.ca
-- 👀 I’m interested in ...video games, music, film, etc...
-- 💞️ I’m looking to collaborate on projects.
+- 👀 I’m interested in Microsoft, Nintendo, and Sony. 
+- Listen mostly to metal music like Vildhjarta.
+- 💞️ I’m looking to start my gameplay programing career in triple a videogame development.
 - 📫 How to reach me alecarakilyan@gmail.com
 
 <!---
