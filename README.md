@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alecos20 Alec Arakilyan
-- My website is found at www.doublasoftware.ca
+- My website, which is a Revencoin NFT, is found at www.doublasoftware.ca 
+- The domain purchased from GoDaddy redirects to my site hosted on Pinata IPFS. 
 - 👀 I’m interested in Microsoft, Nintendo, and Sony. 
 - Listen mostly to metal music like Vildhjarta.
 - 💞️ I’m looking to start my gameplay programing career in triple a videogame development.
