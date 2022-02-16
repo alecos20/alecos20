@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alecos20 Alec Arakilyan
+- My website is found at doublasoftware.ca
 - 👀 I’m interested in ...video games, music, film, etc...
-- 🌱 I’m currently learning C++, and Arduino
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me alecarakilyan@gmail.com
 
