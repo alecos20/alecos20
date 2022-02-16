@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alecos20 Alec Arakilyan
-- My website is found at doublasoftware.ca
+- My website is found at www.doublasoftware.ca
 - 👀 I’m interested in ...video games, music, film, etc...
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me alecarakilyan@gmail.com
